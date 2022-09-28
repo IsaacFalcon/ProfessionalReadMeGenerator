@@ -1,4 +1,4 @@
-# Test Title 
+# test 
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
@@ -8,24 +8,24 @@
   - [Additional Info](#additional-info)
 
   ## Description:
-  Descript
+  descript
 
   ## Installation:
-  Install
+  install
 
   ## Usage:
-  Usage
+  usage
 
   ## Contribution:
-  Contirbute
+  contribute
 
   ## Testing:
   test
 
   ## License:
-  - License: MIT
-  - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  - License: Apache
+  - [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Additional Info:
-  - Github: [github](https://github.com/github)
-  - Email: @gmail.com
+  - Github: [IsaacFalcon](https://github.com/IsaacFalcon)
+  - Email: ice6490@gmail.com
